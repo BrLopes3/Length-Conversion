@@ -1,0 +1,11 @@
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\bin\Debug\MidTerm_Form_BrunoLopes.exe.config
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\bin\Debug\MidTerm_Form_BrunoLopes.exe
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\bin\Debug\MidTerm_Form_BrunoLopes.pdb
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.csproj.AssemblyReference.cache
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.csproj.SuggestedBindingRedirects.cache
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.frm_ConvertLegth.resources
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.Properties.Resources.resources
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.csproj.GenerateResource.cache
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.csproj.CoreCompileInputs.cache
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.exe
+C:\Users\brlop\source\repos\MidTerm_Form_BrunoLopes\MidTerm_Form_BrunoLopes\obj\Debug\MidTerm_Form_BrunoLopes.pdb
